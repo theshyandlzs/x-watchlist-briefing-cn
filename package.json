@@ -1,0 +1,6 @@
+{
+  "name": "x-watchlist-briefing-cn",
+  "version": "0.1.0",
+  "description": "Chinese watchlist briefing skill for 129 X accounts across 9 sectors",
+  "main": "SKILL.md"
+}

@@ -1,0 +1,190 @@
+{
+  "title": "2026最值得关注的AI/出海/创业/独立开发/副业博主总结推送",
+  "updated_at": "2026-03-08",
+  "dedupe_rule": "Deduplicate by lowercase handle before fetching. Preserve all sector tags for repeated handles.",
+  "sectors": [
+    {
+      "id": "ai",
+      "label": "AI领域",
+      "accounts": [
+        {"name": "宝玉", "handle": "dotey", "note": "中文 AI 圈高频信息源，长期分享 Prompt 工程、AI 实战、前沿工具与模型解读。"},
+        {"name": "歸藏", "handle": "op7418", "note": "AIGC 周刊主理人，专注 AI 绘画、视频生成、设计工作流和工具趋势。"},
+        {"name": "Gorden_Sun", "handle": "gorden_sun", "note": "以 AI 资讯日报和前沿动态整理见长，适合追踪新模型、新产品和热点变化。"},
+        {"name": "小互", "handle": "xiaohu", "note": "科技与 AI 工具分享型账号，覆盖 ChatGPT、AI 工具导航、产品资讯和使用技巧。"},
+        {"name": "shao__meng", "handle": "shao__meng", "note": "偏 Web 与 AI 技术实践，常分享 AI 论文、开源项目和产品落地思考。"},
+        {"name": "thinkingjimmy", "handle": "thinkingjimmy", "note": "聚焦 AI 工具普及与产品体验，内容偏实用、面向普通用户和工具使用者。"},
+        {"name": "goocarlos", "handle": "goocarlos", "note": "AI 开发与产品结合型账号，偏开发者视角，适合关注工具构建和应用实践。"},
+        {"name": "Tumeng05", "handle": "tumeng05", "note": "偏 AI 创业和 LLM、RAG、Agent 方向，关注技术趋势与商业落地。"},
+        {"name": "Axton Liu", "handle": "axtonliu", "note": "擅长把复杂 AI 技术讲清楚，常写 AI 产品、开发实践和工具应用心得。"},
+        {"name": "海辛", "handle": "haibun", "note": "偏 AI 视频和生成式视觉创作，适合关注创意类 AI 方向。"},
+        {"name": "倪爽", "handle": "nishuang", "note": "常分享 AI 工具、生产力提升和趋势观察，内容完整度和信息密度都较高。"},
+        {"name": "向阳乔木", "handle": "vista8", "note": "偏 AI 产品、工作流、Vibe Coding 和趋势判断，兼具产品感和表达能力。"},
+        {"name": "李继刚", "handle": "lijigang", "note": "深度 Prompt 探索者，内容偏 AI 思考、创意应用和方法论总结。"},
+        {"name": "李开复", "handle": "kaifulee", "note": "华人 AI 领域最具影响力的意见领袖之一，偏产业、创业和大模型趋势判断。"},
+        {"name": "WaytoAGI", "handle": "waytoagi", "note": "中文 AI 知识整理型头部账号，适合体系化学习和追踪前沿资源。"},
+        {"name": "响马", "handle": "xicilion", "note": "偏 LLM、AI 实战和开发者视角，内容通常信息密度较高。"},
+        {"name": "Orange AI", "handle": "oran_ge", "note": "更偏 AI 创业者视角，关注 Agent、产品机会和模型能力变化。"},
+        {"name": "AI进化论 花生", "handle": "alchainhust", "note": "聚焦 AI 编程、AI Native 产品和具体工具实操，内容落地性强。"},
+        {"name": "DN-Samuel", "handle": "samuelqzq", "note": "覆盖 AI 工具、AI 认知和开发者实践，适合看一线新工具和新玩法。"},
+        {"name": "艾略特", "handle": "elliotchen100", "note": "常做 AI 工具拆解、项目观察和开发者生态内容，适合追踪新项目。"},
+        {"name": "早见 Hayami", "handle": "hayami_kiraa", "note": "偏 AI Builder 和内容创作者路线，连接产品、创作和增长。"},
+        {"name": "Berryxia.AI", "handle": "berryxia", "note": "以创意型 AI 应用、提示词、自动化和生产流为主。"}
+      ]
+    },
+    {
+      "id": "founders",
+      "label": "创业者领域",
+      "accounts": [
+        {"name": "立党", "handle": "lidangzzz", "note": "偏创业、投资、学习成长与人生避坑，具有较强个人观点输出。"},
+        {"name": "铁锤人", "handle": "lxfater", "note": "AI 创业与赚钱实践结合型账号，兼顾产品、流量和实战经验。"},
+        {"name": "李自然", "handle": "nateleex", "note": "连续创业者视角，常分享创业故事、商业认知和实战经历。"},
+        {"name": "yan5xu", "handle": "yan5xu", "note": "非典型开发者创业路线，内容涵盖 AIGC 应用、商业化和个人经历。"},
+        {"name": "圣总聊出海", "handle": "santiagoyoungus", "note": "海外创业者视角，偏普通人出海创业路径和真实经验。"},
+        {"name": "Cydiar404", "handle": "cydiar404", "note": "偏 AI 创业和产品落地，适合看从想法到产品化的过程。"},
+        {"name": "JefferyTatsuya", "handle": "jefferytatsuya", "note": "AI 创业者视角，关注产品构建、市场验证和实际增长。"},
+        {"name": "seclink", "handle": "seclink", "note": "结合 AI 趋势、创业视角和产品运营，偏实战型表达。"},
+        {"name": "Fenng", "handle": "fenng", "note": "互联网老兵型创业观察者，擅长商业评论、创业反思和行业判断。"},
+        {"name": "郭宇", "handle": "turingou", "note": "连续创业者视角，常写科技、创业和数字生活方式。"},
+        {"name": "Tinyfool", "handle": "tinyfool", "note": "资深技术创业者，内容偏创业心态、技术路线和行业选择。"},
+        {"name": "霍炬", "handle": "virushuo", "note": "长期关注科技周期和公司战略，对创业和技术趋势有独到看法。"},
+        {"name": "范凯", "handle": "fankaishuoai", "note": "技术创业老兵，常分享创业复盘、技术产品和行业经验。"},
+        {"name": "XDash", "handle": "xdash", "note": "创业洞察、工具推荐和书单类内容较多，兼顾实用和思考。"},
+        {"name": "idoubi", "handle": "idoubicc", "note": "前工程师转独立开发与创业，分享 build in public 和 AI 产品实践。"},
+        {"name": "倪爽", "handle": "nishuang", "note": "设计与品牌创业交叉视角，常写工作室经营和创作型创业经验。"},
+        {"name": "子木", "handle": "coderjefflee", "note": "偏 SaaS 海外营销、认知升级和案例拆解。"},
+        {"name": "Tom Huang", "handle": "tuturetom", "note": "偏开源 Agent 产品和创业工具链，内容兼具产品与创业思考。"},
+        {"name": "Tony出海", "handle": "iamtonyzhu", "note": "跨境和 AI 创业结合较深，适合关注出海创业实战路径。"},
+        {"name": "泓君 Jane", "handle": "hongjun60", "note": "偏科技创业和高质量访谈内容，适合看产业视角和创业认知。"},
+        {"name": "陈茜 Qian Chen", "handle": "valley101_qian", "note": "科技媒体与创业观察结合，信息密度较高。"}
+      ]
+    },
+    {
+      "id": "saas-app",
+      "label": "SaaS和APP产品领域",
+      "accounts": [
+        {"name": "indie_maker_fox", "handle": "indie_maker_fox", "note": "独立开发与出海 SaaS 路线代表账号，分享模板、建站、流量和变现经验。"},
+        {"name": "HongyuanCao", "handle": "hongyuancao", "note": "出海 SaaS 和 AI 产品创业者，偏产品开发、增长和 SEO 实战。"},
+        {"name": "nextify2024", "handle": "nextify2024", "note": "偏 SaaS 开发工具、模板和产品构建经验。"},
+        {"name": "readyfor2025", "handle": "readyfor2025", "note": "连续创业者和产品经理视角，分享 SaaS 出海和产品思考。"},
+        {"name": "weijunext", "handle": "weijunext", "note": "Next.js 和 SaaS 出海方向账号，偏开发工具和产品搭建。"},
+        {"name": "yihui_indie", "handle": "yihui_indie", "note": "结合 SaaS 独立开发与知识产品变现，内容偏实操和经营思路。"},
+        {"name": "JinsFavorites", "handle": "jinsfavorites", "note": "偏 SaaS 工具和 APP 产品观察，常做产品体验和优化案例整理。"},
+        {"name": "xiongchun007", "handle": "xiongchun007", "note": "数据工具与 SaaS 创业方向，偏产品实践与业务理解。"},
+        {"name": "王俊煜", "handle": "junyu", "note": "产品设计哲学和用户体验表达强，适合看高质量 APP 产品思考。"},
+        {"name": "罗磊", "handle": "luoleiorg", "note": "从全栈与体验角度看产品，常做各类 SaaS 和 APP 分析。"},
+        {"name": "Plidezus", "handle": "plidezus", "note": "独立 APP 开发者视角，关注移动产品从零到一和上架运营。"},
+        {"name": "遁一子", "handle": "jesselaunz", "note": "偏 AI 产品和实际应用，常写 Prompt 与产品落地。"},
+        {"name": "王乐", "handle": "lewangx", "note": "独立创业者，关注 AI 和硬件、产品思维与新形态产品尝试。"},
+        {"name": "Axton", "handle": "axtonliu", "note": "iOS/Mac 独立开发者路线，订阅变现和 App Store 经验较多。"},
+        {"name": "图拉鼎", "handle": "tualatrix", "note": "高质量 iOS 独立开发者，产品审美和完成度都很强。"},
+        {"name": "子骅 Zihua Li", "handle": "luinlee", "note": "工程与产品兼具，偏开发者工具和 SaaS 思维。"},
+        {"name": "程序员鱼皮", "handle": "yupi996", "note": "AI 编程教育、产品化和内容转化结合较好。"},
+        {"name": "Y11", "handle": "seclink", "note": "把 AI 工具、冷启动和求职产品化思维结合起来，产品感较强。"},
+        {"name": "huangserva", "handle": "servasyy_ai", "note": "偏多 Agent、工具链和落地能力，适合看下一代 AI 产品形态。"},
+        {"name": "程序员小灰", "handle": "xiaohuiai666", "note": "AI、内容和副业式产品思维结合，面向普通用户的表达能力强。"}
+      ]
+    },
+    {
+      "id": "global",
+      "label": "出海领域",
+      "accounts": [
+        {"name": "哥飞", "handle": "gefei55", "note": "中文出海建站、SEO 流量和 SaaS 增长方向的高频实战派。"},
+        {"name": "lyc_zh", "handle": "lyc_zh", "note": "偏 AI 出海独立开发和产品增长经验分享。"},
+        {"name": "鱼总聊AI", "handle": "ai_jasonyu", "note": "兼顾 AI、出海、SaaS、APP 和海外手机卡 eSIM 实操干货，是交叉领域影响力账号。"},
+        {"name": "JourneymanChina", "handle": "journeymanchina", "note": "出海、被动收入和海外创业路径结合型账号。"},
+        {"name": "dev_afei", "handle": "dev_afei", "note": "前端工程师出海探索路线，分享英推增长和产品出海。"},
+        {"name": "luobogooooo", "handle": "luobogooooo", "note": "工具站构建和出海实战分享为主。"},
+        {"name": "GoSailGlobal", "handle": "gosailglobal", "note": "AI SaaS 出海独立开发实践者，偏全球化经验。"},
+        {"name": "出海去孵化器", "handle": "chuhaiqu", "note": "偏出海创业生态、社区活动和项目观察，机构属性较强。"},
+        {"name": "大罗 SEO", "handle": "daluoseo", "note": "出海 SEO 和自然流量打法代表账号。"}
+      ]
+    },
+    {
+      "id": "sim-card",
+      "label": "海外手机卡领域",
+      "accounts": [
+        {"name": "奶昔", "handle": "realnyarime", "note": "偏 eSIM、虚拟手机号和海外手机卡使用教程。"},
+        {"name": "DigitalNomadLC", "handle": "digitalnomadlc", "note": "数字游民路线，专注境外手机卡、eSIM 和海外银行卡实用方案。"},
+        {"name": "RocM301", "handle": "rocm301", "note": "常分享海外手机卡、eSIM 和相关黑科技使用经验。"},
+        {"name": "Eva树姐", "handle": "evacmore", "note": "偏海外手机卡和 eSIM 交易、使用经验与 deal 分享。"},
+        {"name": "数字移民", "handle": "shuziyimin", "note": "覆盖海外手机卡、银行账户和数字身份搭建。"},
+        {"name": "鱼总聊AI", "handle": "ai_jasonyu", "note": "不仅做 AI 和出海，也长期覆盖海外手机卡 eSIM 的实操内容。"},
+        {"name": "小糖", "handle": "itangtalk", "note": "海外手机卡和数字生活方向账号，偏美国和欧洲 eSIM 保号攻略。"}
+      ]
+    },
+    {
+      "id": "indie",
+      "label": "独立开发者领域",
+      "accounts": [
+        {"name": "austinit", "handle": "austinit", "note": "靠写代码养活自己的独立开发者路线，常写 AI 编程和收入内容。"},
+        {"name": "guishou_56", "handle": "guishou_56", "note": "出海独立开发和 AI 工具折腾者，常写构建过程和真实故事。"},
+        {"name": "9yearfish", "handle": "9yearfish", "note": "关注产品迭代、开源贡献和独立开发经验。"},
+        {"name": "benshandebiao", "handle": "benshandebiao", "note": "分享 build in public 和技术实战笔记。"},
+        {"name": "hwwaanng", "handle": "hwwaanng", "note": "偏 iOS 独立开发和 APP 构建经验。"},
+        {"name": "OwenYoungZh", "handle": "owenyoungzh", "note": "沉浸式翻译作者，产品与工具出海结合的代表型独立开发者。"},
+        {"name": "图拉鼎", "handle": "tualatrix", "note": "知名独立开发者，常分享开发日常、产品思考和生态观察。"},
+        {"name": "Baye", "handle": "waylybaye", "note": "iOS 独立开发视角，适合看应用打磨和推广经验。"},
+        {"name": "Randy", "handle": "randyloop", "note": "活跃开源作者和独立开发者，技术前沿感强。"},
+        {"name": "Livid", "handle": "livid", "note": "中文独立开发者和极客社区代表人物之一。"},
+        {"name": "花果山大圣", "handle": "shengxj1", "note": "前端讲师和独立开发者路线，内容覆盖 Web、英语和独立开发。"},
+        {"name": "郎瀚威 Will", "handle": "financeyf5", "note": "关注独立开发者破冰、个人品牌建设和社交推广。"},
+        {"name": "61", "handle": "liuyi0922", "note": "高质量 iOS 应用作者，偏产品审美和完成度。"},
+        {"name": "马天翼", "handle": "fkysly", "note": "Indie hacker 和 AI 路线，适合看个人开发者如何持续做产品。"},
+        {"name": "知县", "handle": "zhixianio", "note": "OpenClaw、Agent、工具开发结合较深，也是 builder 型独立开发账号。"},
+        {"name": "雪踏乌云", "handle": "pluvio9yte", "note": "更新频率高，常写 AI 工具、自动化、增长和 OpenClaw 生态。"}
+      ]
+    },
+    {
+      "id": "openclaw",
+      "label": "OpenClaw领域",
+      "accounts": [
+        {"name": "abskoop", "handle": "abskoop", "note": "活跃分享 OpenClaw 使用教程和 AI Agent 资源。"},
+        {"name": "stark_nico99", "handle": "stark_nico99", "note": "偏 OpenClaw 教程和 Agent 工具实战案例。"},
+        {"name": "hongming731", "handle": "hongming731", "note": "分享 OpenClaw 指南、社区构建和应用经验。"},
+        {"name": "penny777", "handle": "penny777", "note": "偏 OpenClaw 项目展示、演示和优化经验。"},
+        {"name": "quarktalksss", "handle": "quarktalksss", "note": "偏 OpenClaw 教程与资源整理。"},
+        {"name": "Khazix0918", "handle": "khazix0918", "note": "AI Agent 和 OpenClaw 实践方向，偏工具优化和案例。"},
+        {"name": "servasyy_ai", "handle": "servasyy_ai", "note": "OpenClaw 和多 Agent 开发者路线，偏高级应用与社区资源。"},
+        {"name": "机器之心", "handle": "jiqizhixin", "note": "AI 专业媒体账号，适合跟 OpenClaw 等前沿项目的技术解读，机构属性较强。"},
+        {"name": "余弦", "handle": "evilcos", "note": "安全视角强，适合看 AI Agent 的越权风险和攻防问题。"},
+        {"name": "Peter Steinberger", "handle": "steipete", "note": "OpenClaw 创始人，适合直接追踪项目演进和一手动态。"},
+        {"name": "铁锤人", "handle": "lxfater", "note": "中文 OpenClaw 传播链中影响力较强，偏部署、认知和生态扩散。"},
+        {"name": "雪踏乌云", "handle": "pluvio9yte", "note": "偏 OpenClaw 生态整理、教程汇总和趋势跟踪。"},
+        {"name": "马天翼", "handle": "fkysly", "note": "偏独立开发者如何把 OpenClaw 和技能生态做产品化。"}
+      ]
+    },
+    {
+      "id": "knowledge",
+      "label": "知识分享领域",
+      "accounts": [
+        {"name": "kasong2048", "handle": "kasong2048", "note": "知识、成长、AI 副业和咨询内容结合，适合看结构化表达。"},
+        {"name": "cellinlab", "handle": "cellinlab", "note": "AI 应用开发者与播客路线，偏独立工作者知识和资源整理。"},
+        {"name": "wshuyi", "handle": "wshuyi", "note": "适合小白入门的 AI 工具和知识分享账号，表达通俗。"},
+        {"name": "FinanceYF5", "handle": "financeyf5", "note": "知识付费、成长和个人建设内容较多，也连接独立开发与表达。"},
+        {"name": "WaytoAGI", "handle": "waytoagi", "note": "前沿 AI 知识库型账号，体系化整理能力强，机构属性偏强。"},
+        {"name": "阮一峰", "handle": "ruanyf", "note": "中文互联网知识分享常青树，科技与工具类内容长期稳定高质量。"},
+        {"name": "王川", "handle": "svwang1", "note": "擅长深度长推，内容涉及历史、商业、科技与认知。"},
+        {"name": "少数派", "handle": "sspai_com", "note": "数字生活和高效工具的头部知识平台号，机构属性较强。"},
+        {"name": "Owen", "handle": "owenyoungzh", "note": "偏外语阅读、信息获取与效率提升的方法论分享。"},
+        {"name": "阑夕", "handle": "foxshuo", "note": "科技资讯和商业观察结合型账号，视野较广。"},
+        {"name": "刘未鹏", "handle": "pongba", "note": "思维方法和认知科学分享很有代表性。"},
+        {"name": "Bob Fu 符尧", "handle": "francis_yao_", "note": "前沿研究和多模态、推理方向知识分享。"},
+        {"name": "泓君 Jane", "handle": "hongjun60", "note": "高质量访谈和行业内容，信息筛选层级高。"},
+        {"name": "陈茜 Qian Chen", "handle": "valley101_qian", "note": "偏科技媒体和产业内容，长期看有价值。"}
+      ]
+    },
+    {
+      "id": "side-hustle",
+      "label": "副业领域",
+      "accounts": [
+        {"name": "Astronaut_1216", "handle": "astronaut_1216", "note": "专注 X 平台起号和 AI 工具变现实战。"},
+        {"name": "ityouknows", "handle": "ityouknows", "note": "覆盖 AI、跨境、自媒体和副业变现路径。"},
+        {"name": "kasong2048", "handle": "kasong2048", "note": "偏 AI 副业、咨询和知识变现路线。"},
+        {"name": "JourneymanChina", "handle": "journeymanchina", "note": "出海、被动收入和副业实践结合型账号。"},
+        {"name": "austinit", "handle": "austinit", "note": "偏代码养活自己和个人开发变现路径。"},
+        {"name": "yan5xu", "handle": "yan5xu", "note": "AIGC 商业化和个人重整经历结合，副业属性明显。"},
+        {"name": "expatlevi", "handle": "expatlevi", "note": "地理套利、出海工具和副业工具分享。"}
+      ]
+    }
+  ]
+}
