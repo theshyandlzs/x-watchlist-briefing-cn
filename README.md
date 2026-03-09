@@ -101,6 +101,25 @@ export TWITTER_TOKEN="<your-token>"
 - `python3`
 - `TWITTER_TOKEN`
 
+## Working Directory
+
+这个 skill 里的辅助脚本使用的是 repo 内的 `scripts/` 目录。
+
+所以在执行下面这些命令前，先确保你已经进入这个 skill 的根目录，或者直接使用该目录下脚本的绝对路径。
+
+常见根目录有两个：
+
+- `~/.openclaw/skills/x-watchlist-briefing-cn`
+- 你本地 clone 下来的 `x-watchlist-briefing-cn` 仓库根目录
+
+如果你在别的目录里直接运行：
+
+```bash
+python3 scripts/show_watchlist.py --summary
+```
+
+Python 会按当前目录去找 `scripts/show_watchlist.py`，然后报 `No such file or directory`。
+
 ## Quick Start
 
 安装完成后，可以直接在 OpenClaw 里这样用：
@@ -189,7 +208,14 @@ x-watchlist-briefing-cn/
 可以先本地检查观察池和模板脚本：
 
 ```bash
+cd ~/.openclaw/skills/x-watchlist-briefing-cn
 python3 scripts/show_watchlist.py --summary
 python3 scripts/show_watchlist.py --duplicates
 python3 scripts/render_digest_template.py --end '2026-03-08T09:00:00+08:00' --hours 48
+```
+
+或者直接用绝对路径：
+
+```bash
+python3 ~/.openclaw/skills/x-watchlist-briefing-cn/scripts/show_watchlist.py --summary
 ```

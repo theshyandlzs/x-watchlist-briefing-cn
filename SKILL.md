@@ -41,10 +41,14 @@ Instead, it follows the upstream OpenClaw `opentwitter` style and calls the 6551
 1. `TWITTER_TOKEN` is present in the environment.
 2. `curl` is available.
 3. `python3` is available.
-4. Read:
+4. Resolve the skill root before reading local files or running helper scripts.
+   - If `SKILL.md` is not in the current working directory, switch to the installed package root first.
+   - Typical roots are `~/.openclaw/skills/x-watchlist-briefing-cn` or your cloned repo root.
+   - Do not run `python3 scripts/...` from an unrelated working directory.
+5. Read:
    - `references/watchlist.json`
    - `references/opentwitter-openclaw.md`
-5. Quick sanity check:
+6. Quick sanity check, from the skill root:
    - `python3 scripts/show_watchlist.py --summary`
 
 ## Required Inputs
@@ -58,6 +62,12 @@ Instead, it follows the upstream OpenClaw `opentwitter` style and calls the 6551
 3. Write absolute start and end times in the final briefing.
 
 ## Workflow
+
+### Step 0: Resolve the package root
+
+1. Before any local file access, confirm the current working directory contains `SKILL.md`.
+2. If it does not, switch to the installed skill directory before reading `references/...` or executing `python3 scripts/...`.
+3. Use absolute paths if the runtime cannot safely change directories.
 
 ### Step 1: Normalize the time window
 
@@ -206,8 +216,11 @@ Check every run:
 6. treating `400 no tweet` as proof the account is dead
 7. treating `429` as a content failure instead of backoff
 8. dumping low-signal posts into the briefing
+9. running `python3 scripts/...` from a working directory that is not the skill root
 
 ## Quick Commands
+
+Run these from the skill root:
 
 1. `python3 scripts/show_watchlist.py --summary`
 2. `python3 scripts/show_watchlist.py --duplicates`
